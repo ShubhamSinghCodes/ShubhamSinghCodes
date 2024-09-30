@@ -6,4 +6,4 @@ I'm a 15-year-old student from India, exploring the world of coding. I love buil
 - I also enjoy making small games and simulations in my free time.
 - When I'm not coding, I'm probably learning more about **math** or **science**.
 
-Feel free to check out my projects, or reach out if you'd like to connect! I'm always up for learning something new.
+Feel free to check out my projects!
